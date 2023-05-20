@@ -1,5 +1,5 @@
 <p>
- <img scr= ".github/preview.png" alt= "Demosntração do Projeto" width="100%">
+ <img scr=".github/Review.png" alt= "Demosntração do Projeto" width="100%">
 </p>
 
 ## 🖥️ Projeto 
